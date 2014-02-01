@@ -19,3 +19,5 @@ build
 
 node_modules
 
+# compiled files
+sender.js
