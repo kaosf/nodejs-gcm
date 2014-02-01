@@ -11,6 +11,9 @@
     "gcm": "1.0.1",
     "coffee-script": "1.7.1"
   },
+  "scripts": {
+    "postinstall": "node_modules/coffee-script/bin/coffee -c sender.coffee"
+  },
   "author": "ka",
   "license": "MIT"
 }
