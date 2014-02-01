@@ -1,0 +1,16 @@
+{
+  "name": "gcm-sender",
+  "version": "0.0.0",
+  "description": "Simple Node.js GCM sender written in CoffeeScript",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaosf/nodejs-gcm"
+  },
+  "dependencies": {
+    "gcm": "1.0.1",
+    "coffee-script": "1.7.1"
+  },
+  "author": "ka",
+  "license": "MIT"
+}
