@@ -1,10 +1,10 @@
 {GCM} = require 'gcm'
 
-apiKey = ''
+apiKey = 'fill-in-your-api-key'
 gcm = new GCM apiKey
 
 message =
-  registration_id: ''
+  registration_id: 'fill-in-your-registration-id'
   collapse_key: 'Collapse key'
   'data.key1': 'value1'
   'data.key2': 'value2'
