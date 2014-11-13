@@ -17,6 +17,7 @@ node sender.js
 or execute `sender.coffee` directly.
 
 ```sh
+npm install -g coffee-script
 coffee sender.coffee
 ```
 
