@@ -25,4 +25,4 @@ coffee sender.coffee
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright 2014 ka
+Copyright 2014-2016 ka
